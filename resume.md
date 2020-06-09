@@ -1,5 +1,7 @@
 # Kenny Collings
 
+[collingsKenny@gmail.com](mailto:collingsKenny@gmail.com) - [github.com/collingsKenny](https://github.com/collingskenny) - [(925) 789 - 7311](tel:+1-925-789-7311)
+
 Recent graudate looking to help create web applications. I enjoy working with modern javascript technologies such as React and Node.js, and I am seeking a position as a front-end or full-stack developer.
 
 ## Education
@@ -19,8 +21,6 @@ Android Studio, Java
 - Implemented data structures (TreeMap) strategically to efficiently process a sizeable amount of data, display the data as a graph, and perform calculations between data sets on the fly.
 - Presented the graphs and added options in an understandable way so that users could effectively find the information they are looking for.
 
----
-
 ### LockWire
 
 _CruzHacks_, January 2019
@@ -36,9 +36,7 @@ Express, Firebase, Android Studio
 - Programmed middleware in JavaScript with Node.js and Express.js to receive data from hardware devices and to manage and update a real-time Firebase.
 - Implemented Google Maps API and Firebase API in an Android app to display data in real time.
 
----
-
-### Cepheid — Sunnyvale, CA
+### Cepheid - Sunnyvale, CA
 
 _Software Quality Engineer Intern_, January 2017 - September 2017
 
@@ -51,7 +49,7 @@ _Software Quality Engineer Intern_, January 2017 - September 2017
 - Trained new hires and temps on company and testing procedures.
 - Created, reviewed, and validated procedures and test protocol for software used in molecular diagnostic testing.
 
-### Cepheid — Sunnyvale, CA
+### Cepheid - Sunnyvale, CA
 
 _Software Quality Technician Intern_, May 2016 - August 2016
 
