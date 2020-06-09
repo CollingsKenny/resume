@@ -1,5 +1,7 @@
 # Kenny Collings
 
+Recent graudate looking to help create web applications. I enjoy working with modern javascript technologies such as React and Node.js, and I am seeking a position as a front-end or full-stack developer.
+
 ## Education
 
 B.S. Computer Science - _UC Santa Cruz_, December 2019
