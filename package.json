@@ -8,7 +8,8 @@
     "markdown-to-html": "0.0.13"
   },
   "scripts": {
-    "build": "markdown src/resume.md > index.html"
+    "build": "markdown src/pages/resume.md > build/index.html && cp -r src/styles/ build/",
+    "clean": "rm -r build/ && mkdir build"
   },
   "repository": {
     "type": "git",
