@@ -12,17 +12,11 @@ jobs:
         uses: actions/checkout@v2
         with:
           persist-credentials: false
-      - name: Install 🧰
-        uses: actions/npm@master
-        with:
-          args: install
 
-      - name: Build 🛠️
-        uses: actions/npm@master
-        with:
-          args: build
-      # - run: npm install
-      # - run: npm run build
+      - name: Install & Build 🧰
+        run: |
+          npm install
+          npm run build
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
