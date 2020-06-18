@@ -1,0 +1,28 @@
+{
+  "name": "kenny-collings-resume",
+  "version": "1.0.0",
+  "description": "Resume for Kenny Collings in markdown",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "markdown-to-html": "0.0.13"
+  },
+  "scripts": {
+    "build": "markdown src/resume.md > index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CollingsKenny/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "Kenny",
+    "Collings"
+  ],
+  "author": "Kenny Collings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CollingsKenny/resume/issues"
+  },
+  "homepage": "https://github.com/CollingsKenny/resume#readme"
+}
