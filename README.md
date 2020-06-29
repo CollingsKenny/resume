@@ -2,6 +2,6 @@
 
 Written in Markdown
 
-[View html 💻](https://collingskenny.github.io/resume/)
+[💻 View html](https://collingskenny.github.io/resume/){:target="_blank"}
 
-[View markdown 📃](resume.md)
+[📃 View markdown](resume.md)
