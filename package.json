@@ -1,0 +1,27 @@
+{
+  "name": "resume",
+  "version": "2.0.0",
+  "description": "My resume, written in markdown",
+  "main": "index.js",
+  "dependencies": {
+    "jsdom": "^16.2.2",
+    "showdown": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CollingsKenny/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Kenny Collings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CollingsKenny/resume/issues"
+  },
+  "homepage": "https://collingskenny.github.io/resume/"
+}

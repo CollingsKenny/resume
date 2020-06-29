@@ -1,4 +1,4 @@
-# My Resume
+# Resume for Kenny Collings
 
 Written in Markdown
 
