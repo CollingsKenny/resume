@@ -9,6 +9,6 @@ var fs = require('fs');
 const html_content = converter.makeHtml(fs.readFileSync('resume.md', 'utf8'));
 
 JSDOM.fromFile('template.html').then((dom) => {
-  dom.window.document.querySelector('body').innerHTML = html_content;
+  dom.window.document.querySelector('main').innerHTML = html_content;
   fs.writeFileSync('index.html', dom.serialize());
 });
