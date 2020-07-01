@@ -9,7 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build": "node build.js"
+    "build": "node build.js resume.md",
+    "clean": "rm index.html"
   },
   "repository": {
     "type": "git",
