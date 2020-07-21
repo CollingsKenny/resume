@@ -20,7 +20,7 @@ B.S. Computer Science - _UC Santa Cruz_, December 2019
 
 ---
 
-### Various Personal Web Projects
+### Web Projects - Personal
 
 _Full Stack Javascript_, April 2020 - present
 Technologies: MongoDB, Express, React.js, Node.js, Redux, Tailwind CSS, among others
