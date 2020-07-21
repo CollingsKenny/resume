@@ -9,8 +9,6 @@ if (args.length != 1) {
 
 const fileName = args[0];
 
-console.log(fileName);
-
 var showdown = require('showdown'),
   converter = new showdown.Converter();
 converter.setFlavor('github');
