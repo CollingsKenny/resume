@@ -8,7 +8,7 @@
 
 ---
 
-Recent graudate looking to help create web applications. I enjoy working with modern JavaScript technologies such as React and Node.js, and I am seeking a position as a front-end or full-stack developer.
+Recent graduate looking to help create web applications. I enjoy working with modern JavaScript technologies such as React and Node.js, and I am seeking a position as a front-end or full-stack developer.
 
 ## Education
 
@@ -20,7 +20,20 @@ B.S. Computer Science - _UC Santa Cruz_, December 2019
 
 ---
 
-### Better Turnips Exchange - Group Personal Project
+## Various Personal Web Projects
+
+_Full Stack Javascript_, April 2020 - present
+Technologies: MongoDB, Express, React.js, Node.js, Redux, Tailwind CSS, among others
+
+- Created various personal projects with small groups and individually in order to better understand web development.
+- Wrote ES6/ES7 JavaScript in React.js and Node.js to create APIs and websites.
+- Used redux, and then react hooks to manage state elegantly and effectively.
+- Worked in a small group as a front-end developer and provided insight to back-end team to allow for seamless and efficient integration.
+- Used various styling frameworks such as Bootstrap, Tailwind CSS, and styled components to create graceful and responsive UIs.
+- Built REST APIs to manage information stored using MongoDB.
+- Learned a lot about how to efficiently architect web applications in order to manage complexity and allow for future changes.
+
+<!-- ### Better Turnips Exchange - Group Personal Project
 
 _Front End Developer_, May 2020 - June 2020
 
@@ -41,7 +54,7 @@ Technologies: MongoDB, Express, React.js, Node.js, Redux, Tailwind CSS
 - Used react to develop a web application to allow users to dynamically track their schedules.
 - Built to help me apply my computer science knowledge and learn the MERN stack.
 - Used redux within react to manage and communicate state with API.
-- Learned a lot about how to efficiently architect web applications in order to manage complexity and allow for future changes.
+- Learned a lot about how to efficiently architect web applications in order to manage complexity and allow for future changes. -->
 
 ### Tanabe-Sugano Diagram Android App - Class Project
 
@@ -64,9 +77,9 @@ Technologies: Express, Firebase, Android, embedded systems
 - Built a system to help deter the growing problem of bike thefts on our campus by tracking bike locations and alerting the owner’s smartphone when tampering is detected.
 - The system consisted of three distinct parts:
   1. The GPS and on-bike hardware.
-  2. A Google Cloud based Express.js middleware and Firebase database.
+  2. A Google Cloud based Express.js API and Firebase database.
   3. An Android application to alert the user and display the bike’s location.
-- Programmed middleware in JavaScript with Node.js and Express.js to receive data from hardware devices and to manage and update the Firebase.
+- Programmed a cloud API in JavaScript with Node.js and Express.js to receive data from hardware devices and to manage and update the Firebase.
 - Implemented Google Maps API and Firebase API in an Android app to display data in real time.
 
 ### Cepheid - Sunnyvale, CA
