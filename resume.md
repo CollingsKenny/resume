@@ -20,7 +20,7 @@ B.S. Computer Science - _UC Santa Cruz_, December 2019
 
 ---
 
-## Various Personal Web Projects
+### Various Personal Web Projects
 
 _Full Stack Javascript_, April 2020 - present
 Technologies: MongoDB, Express, React.js, Node.js, Redux, Tailwind CSS, among others
@@ -32,29 +32,6 @@ Technologies: MongoDB, Express, React.js, Node.js, Redux, Tailwind CSS, among ot
 - Used various styling frameworks such as Bootstrap, Tailwind CSS, and styled components to create graceful and responsive UIs.
 - Built REST APIs to manage information stored using MongoDB.
 - Learned a lot about how to efficiently architect web applications in order to manage complexity and allow for future changes.
-
-<!-- ### Better Turnips Exchange - Group Personal Project
-
-_Front End Developer_, May 2020 - June 2020
-
-Technologies: React.js, Tailwind CSS
-
-- A team of four and I worked to create a companion web app for the popular video game Animal Crossing.
-- Implemented a React.js web app to work with an API built by other members of the group.
-- Provided insight and guidance to back-end team to allow for seamless and efficient integration into the front end.
-- Used Tailwind CSS to create styles that match the aesthetic themes of the video game and maintain a responsive UI.
-- Used new features such as web notifications in conjunction with animations to alert users.
-
-### Simple Schedule - Solo Personal Project
-
-_Full Stack Developer_, April 2020 - May 2020
-
-Technologies: MongoDB, Express, React.js, Node.js, Redux, Tailwind CSS
-
-- Used react to develop a web application to allow users to dynamically track their schedules.
-- Built to help me apply my computer science knowledge and learn the MERN stack.
-- Used redux within react to manage and communicate state with API.
-- Learned a lot about how to efficiently architect web applications in order to manage complexity and allow for future changes. -->
 
 ### Tanabe-Sugano Diagram Android App - Class Project
 
