@@ -1,10 +1,8 @@
 # Kenny Collings
 
-[github.com/collingsKenny](https://github.com/collingskenny)
+| [github.com/collingsKenny](https://github.com/collingskenny) | [collingsKenny@gmail.com](mailto:collingsKenny@gmail.com) | [(925) 789 - 7311](tel:+1-925-789-7311) |
+| ------------------------------------------------------------ | --------------------------------------------------------- | --------------------------------------- |
 
-[collingsKenny@gmail.com](mailto:collingsKenny@gmail.com)
-
-[(925) 789 - 7311](tel:+1-925-789-7311)
 
 ---
 
@@ -39,11 +37,11 @@ _Software Quality Engineer Intern_, May 2016 - August 2016; January 2017 - Septe
 _Full Stack Javascript_, April 2020 - present
 Technologies: JavaScript, MongoDB, Express, React.js, Node.js, Redux, Tailwind CSS
 
+- Worked in a small group as a front-end developer and provided insight to the back-end team to allow for seamless and efficient integration.
 - Created various personal projects with small groups and individually in order to better understand web development.
 - Wrote ES6/ES7 JavaScript in React.js and Node.js to create an API and website that tracked calendar events.
-- Used redux and then react hooks to manage state elegantly and effectively.
-- Worked in a small group as a front-end developer and provided insight to back-end team to allow for seamless and efficient integration.
-- Used various styling frameworks such as Bootstrap, Tailwind CSS, and styled components to create graceful and responsive UIs.
+- Used redux and react hooks to manage state elegantly and effectively.
+- Used various styling frameworks such as Bootstrap, Tailwind CSS, and styled components to create intuitive and responsive UIs.
 - Built REST APIs to manage information stored using MongoDB.
 - Learned a lot about how to efficiently architect web applications in order to manage complexity and allow for future changes.
 
