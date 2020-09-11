@@ -12,7 +12,7 @@ body {
   padding: 1em;
   width: 650px;
   margin: auto;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 
 p,
@@ -69,7 +69,8 @@ ol {
   }
   body {
     padding: 0;
-    width: 650px;
+    margin: 0.5in 1in;
+    width: auto;
   }
   h1 {
     margin: 0;
